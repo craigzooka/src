@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author 559866
+ * @author Craig Stevenson
  */
 public class Benchmark {
     private Status status;
